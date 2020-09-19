@@ -1,5 +1,5 @@
 # Welcome to the HackMIT 2020 Beginner Workshop!
-
+[![Run on Repl.it](https://repl.it/badge/github/martinwong2020/beginner-workshop-2020)](https://repl.it/github/martinwong2020/beginner-workshop-2020)
 <img src="https://i.ibb.co/dgdbd2K/with-rails.png" alt="with-rails" width="100%" border="0" />
 
 ## Important Notes
