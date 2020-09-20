@@ -59,6 +59,38 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.parallax1{
+    background-image:url("https://o.aolcdn.com/images/dims?quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F3a994ce0-8a0b-11ea-bfbe-014be42d9fb7&client=amp-blogside-v2&signature=ecd6cbc5a90fa5c6ecf9b667d6b6e346127a82e7");
+    height:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    background-image:url("https://assets1.ignimgs.com/2020/07/31/keyart-marcus-firing-4k-1596200789214.jpg");
+    height:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3{
+    background-image:url("https://image-cdn.essentiallysports.com/wp-content/uploads/20200805232746/maxresdefault-302-1.jpg");
+    height:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax4{
+    background-image:url("https://cdn1.dotesports.com/wp-content/uploads/2020/09/02125331/TopBanner_com.innersloth.spacemafia.jpg");
+    height:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #game-row1{
     display: flex;
 }
