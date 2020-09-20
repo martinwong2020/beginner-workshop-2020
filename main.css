@@ -36,9 +36,9 @@
     margin-left:2px;
     
 }
-/* body, html {
+body, html {
     height: 100%;
-  } */
+  }
 /* body{
     align-items: center;
     background-image:url("https://wallpaperaccess.com/full/397930.png");
@@ -118,4 +118,151 @@
     padding-right:50px;
     padding-top:50px;
     padding-bottom:50px;
+}
+#VPost{
+    height:200px;
+    width:951px;
+    justify-content: space-around;
+    max-width: 80vw;
+    text-align:left;
+    position: sticky;
+}
+#VPcontainer{
+    position:fixed;
+    bottom:0;
+    left:25%;
+
+}
+#VSubmit{
+    position:fixed;
+    bottom:0px;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+#Vguide{
+    margin-top:100px;
+    text-align: center;
+    
+}
+#VMessages{
+    border:5px solid pink;
+    padding-left:5px;
+    height:100%;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 1000px;
+}
+
+#SBPost{
+    height:200px;
+    width:951px;
+    justify-content: space-around;
+    max-width: 80vw;
+    text-align:left;
+    position: sticky;
+}
+#SBPcontainer{
+    position:fixed;
+    bottom:0;
+    left:25%;
+
+}
+#SBSubmit{
+    position:fixed;
+    bottom:0px;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+#SBguide{
+    margin-top:100px;
+    text-align: center;
+    
+}
+#SBMessages{
+    border:5px solid pink;
+    padding-left:5px;
+    height:100%;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 1000px;
+}
+
+
+#FGPost{
+    height:200px;
+    width:951px;
+    justify-content: space-around;
+    max-width: 80vw;
+    text-align:left;
+    position: sticky;
+}
+#FGPcontainer{
+    position:fixed;
+    bottom:0;
+    left:25%;
+
+}
+#FGSubmit{
+    position:fixed;
+    bottom:0px;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+#FGguide{
+    margin-top:100px;
+    text-align: center;
+    
+}
+#FGMessages{
+    border:5px solid pink;
+    padding-left:5px;
+    height:100%;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 1000px;
+}
+
+
+#AUPost{
+    height:200px;
+    width:951px;
+    justify-content: space-around;
+    max-width: 80vw;
+    text-align:left;
+    position: sticky;
+}
+#AUPcontainer{
+    position:fixed;
+    bottom:0;
+    left:25%;
+
+}
+#AUSubmit{
+    position:fixed;
+    bottom:0px;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+#AUguide{
+    margin-top:100px;
+    text-align: center;
+    
+}
+#AUMessages{
+    border:5px solid pink;
+    padding-left:5px;
+    height:100%;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 1000px;
+}
+#Info{
+    color:white;
+}
+#TextDisplay{
+    color:orange;
 }
