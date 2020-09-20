@@ -24,10 +24,10 @@
     border: 2px solid grey;
     margin-top:20px;
 }
-.searchIMG{
-    height:51%;
+#searchIMG{
+    height:50px;
     width:5%;
-
+    margin-top:20px;
 }
 .login{
     float:right;
