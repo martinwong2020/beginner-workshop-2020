@@ -40,3 +40,8 @@ $("#FGUpload").click(function(){
     var uploaded = $("#FGPost").val();
     $("#FGMessages").append("<div><img id='Uploadimg' src='"+uploaded+"'></div><hr>");
 });
+
+// $(".query").click(function(){
+//     var SearchGME = $("#searchBar").val();
+//     window.open('http://google.com/search?q='+SearchGME);    
+// })
