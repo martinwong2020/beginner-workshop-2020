@@ -6,17 +6,23 @@
 #text{
     color:red;
 }
+
+#searchBarContainer{
+    margin-top:30px;
+}
 #searchBar{
     float:left;
     height:50px;
     width:800px;
     border: 2px solid pink;
     font-size: 30px;
+    margin-top:20px;
 }
 .query{
     height:51%;
     width:5%;
     border: 2px solid grey;
+    margin-top:20px;
 }
 .login{
     float:right;
@@ -140,6 +146,13 @@ body, html {
     width: 300px;
     border: 3px solid #73AD21;
 }
+#VUpload{
+    position:fixed;
+    bottom:0px;
+    left: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
 #Vguide{
     margin-top:100px;
     text-align: center;
@@ -172,6 +185,13 @@ body, html {
     position:fixed;
     bottom:0px;
     right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+#SBUpload{
+    position:fixed;
+    bottom:0px;
+    left: 0;
     width: 300px;
     border: 3px solid #73AD21;
 }
@@ -211,6 +231,13 @@ body, html {
     width: 300px;
     border: 3px solid #73AD21;
 }
+#FGUpload{
+    position:fixed;
+    bottom:0px;
+    left: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
 #FGguide{
     margin-top:100px;
     text-align: center;
@@ -247,6 +274,13 @@ body, html {
     width: 300px;
     border: 3px solid #73AD21;
 }
+#AUUpload{
+    position:fixed;
+    bottom:0px;
+    left: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
 #AUguide{
     margin-top:100px;
     text-align: center;
@@ -265,4 +299,8 @@ body, html {
 }
 #TextDisplay{
     color:orange;
+}
+#Uploadimg{
+    max-width: 100%;
+    max-height: 100%;
 }
